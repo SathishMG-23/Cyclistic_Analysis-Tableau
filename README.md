@@ -52,7 +52,7 @@ Calculated the Time of the Day (Morning, Afternoon etc.) to identify the custome
 
 3)       Key Findings:
 
-Usage Patterns Over the Day:
+**Usage Patterns Over the Day:**
 
 A notable convergence exists between the usage patterns of casual and member riders based on the time of day.
 
@@ -60,7 +60,7 @@ Both rider categories show a preference for riding during the afternoon and the 
 
  
 
-Monthly and Seasonal Riding Trends:
+**Monthly and Seasonal Riding Trends:**
 
 The peak riding period aligns with the summer season, followed closely by the fall season.
 
@@ -71,7 +71,7 @@ During winter, casual rides comprise only 2.19% of the total rides, while in sum
 Member rides during winter account for 7.46%, compared to the summer's 21.35%, signifying a significant 13.89% change.
 
 
-Riding Frequency on Weekdays:
+**Riding Frequency on Weekdays:**
 
 Casual riders exhibit a preference for weekends, especially Saturdays. In contrast, members prefer weekdays, with  Wednesdays registering their highest ridership.
 
@@ -79,13 +79,13 @@ Mondays see the fewest casual rides, whereas for members, it's Sundays that reco
 
  
 
-Preferred Rideable Types by Rider Category:
+**Preferred Rideable Types by Rider Category:**
 
 Electric bikes hold the highest appeal among both members and casuals, closely followed by classic bikes. Docked bikes rank as the least preferred option. Interestingly, members entirely avoided docked bikes during the dataset period.
 
  
 
-Ride Duration in Minutes:
+**Ride Duration in Minutes:**
 
 The majority of rides taken by both rider groups last approximately 4 to 5 minutes.
 
@@ -93,7 +93,7 @@ On average, member rides endure around 12 minutes, while casual rides extend to 
 
  
 
-Time Distribution of Total Rides:
+**Time Distribution of Total Rides:**
 
 Among members, 5 PM emerges as the peak riding time, closely trailed by 8 AM. This strongly suggests that members primarily use the bikes for commuting purposes.
 

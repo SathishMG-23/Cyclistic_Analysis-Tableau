@@ -48,9 +48,6 @@ Calculated the Time of the Day (Morning, Afternoon etc.) to identify the custome
 
  Extracted the starting time from the ‘started at’ column to identify the most crowded hours.
 
-
-Requesting you to access the visual representation of the analysis as it gives better understanding of the insights discussed below. Click here. 
-
  
 
 3)       Key Findings:

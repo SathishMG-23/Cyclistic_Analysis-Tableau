@@ -114,17 +114,17 @@ The dataset covers the time period from June 22 to July 23. The data comes from 
 Created visually appealing graphs and charts to showcase the above analysis through visualization.
 
 # Top Three Recommendations
-* Summer Promotion Campaigns:
+**Summer Promotion Campaigns:**
 
 As summer records the most number of rides, create special summer membership packages that encourage the casual riders to become members during this peak riding period.
 
 
-* Weekend exclusive offers:
+**Weekend exclusive offers:**
 
 Recognizing the weekend preference of casual riders, consider designing weekend exclusive offers that encourage casual riders to experience the benefits of membership during their preferred time.
 
 
-* Commute Benefits:
+**Commute Benefits:**
 
 Focus on promoting the convenience and cost-effectiveness of annual membership for daily commuting. Highlight the busiest time for members (5 PM) and emphasize how having a membership can make their daily commute more efficient and hassle-free.
 

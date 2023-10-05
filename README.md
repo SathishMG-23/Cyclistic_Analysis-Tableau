@@ -24,29 +24,32 @@ The dataset covers the time period from June 22 to July 23. The data comes from 
 
 1)       Data cleaning:
 
-Merged all data into single table in SQL.
+* Merged all data into single table in SQL.
 
- Checked for the duplicate values in the dataset to exclude them from analysis. However, the data looked already cleaned as there were no duplicate records.
+* Checked for the duplicate values in the dataset to exclude them from analysis. However, the data looked already cleaned as there were 
+  no duplicate records.
 
- Data contained some non-useful information about the rides, like latitude and longitude of the trip’s start and end destination, which in my opinion was unnecessary for my analysis. Hence such non-relevant information were excluded from the analysis.
+* Data contained some non-useful information about the rides, like latitude and longitude of the trip’s start and end destination, which 
+  in my opinion was unnecessary for my analysis. Hence such non-relevant information were excluded from the analysis.
 
- There were some empty spots in the columns that had names and IDs for the starting and ending stations of the trips. Since there were so many missing values, I decided not to use these columns to make sure my results were accurate.
+* There were some empty spots in the columns that had names and IDs for the starting and ending stations of the trips. Since there were 
+  so many missing values, I decided not to use these columns to make sure my results were accurate.
 
  
 
 2)       Manipulation of Data:
 
-Calculated the Weekday of the trip starting date to identify the favourable days of riders.
+* Calculated the Weekday of the trip starting date to identify the favourable days of riders.
 
- Calculated the duration of each trips to get insight about the riding duration.
+* Calculated the duration of each trips to get insight about the riding duration.
 
-Created a column to show the season to understand the seasonal behaviour of the customers.
+* Created a column to show the season to understand the seasonal behaviour of the customers.
 
-Extracted month from the date to understand the monthly ride trend.
+* Extracted month from the date to understand the monthly ride trend.
 
-Calculated the Time of the Day (Morning, Afternoon etc.) to identify the customer preferences.
+* Calculated the Time of the Day (Morning, Afternoon etc.) to identify the customer preferences.
 
- Extracted the starting time from the ‘started at’ column to identify the most crowded hours.
+ * Extracted the starting time from the ‘started at’ column to identify the most crowded hours.
 
  
 

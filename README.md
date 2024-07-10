@@ -2,7 +2,7 @@
 
 Sathish |
 Data Analyst |
-20/04/2024 |
+20/09/2023 |
 sathishgudri@gmail.com |
 Bangalore, India |
 
